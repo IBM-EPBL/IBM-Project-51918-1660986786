@@ -8,7 +8,7 @@ University Admit Eligibility Predictor
 
   </div>
  <br> 
- <h3>IBM-Project-9130-1658982501</h3>  
+ <h3>IBM-Project-51918-1660986786</h3>  
     
     
 > Your success will be determined by the manner in which you use the tools you have been given to work with.  
@@ -50,12 +50,3 @@ University Admit Eligibility Predictor
   </div>
  <br>
   
-  <!-- tasks -->
-  <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" width="40px"> Tasks: </h2>
-  
-- [x] Brainstorm and Ideation <br>
-- [x] Problem Statement <br>
-- [x] Empathy Map <br>
-- [x] Assignment 1 <br>
-- [x] Assignment 2  <br>
-    
