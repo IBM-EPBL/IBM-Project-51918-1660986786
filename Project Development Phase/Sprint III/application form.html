@@ -229,5 +229,13 @@ style="width: 20rem;">Edit Application</a>
 </div>
 {% endif %}
   
-  
+  <div class="container w-50 mt-4 shadow">
+ <h3>Your application is {{application.Application_Status}}</h3>
+ <br>
+ <h5>{{application.message}}</h5>
+</div>
+Views.py:
+def status(request):
+ application = Application.objects.get(user=request.user)
+ return render(request, "status.html", {'application':application})
   
